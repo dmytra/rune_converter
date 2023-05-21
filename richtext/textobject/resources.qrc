@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>files/1.svg</file>
+        <file>files/2.svg</file>
+        <file>files/3.svg</file>
+        <file>files/4.svg</file>
+        <file>files/5.svg</file>
+        <file>files/6.svg</file>
+        <file>files/7.svg</file>
+        <file>files/8.svg</file>
+        <file>files/9.svg</file>
+        <file>files/10.svg</file>
+        <file>files/11.svg</file>
+        <file>files/12.svg</file>
+        <file>files/13.svg</file>
+        <file>files/14.svg</file>
+        <file>files/15.svg</file>
+        <file>files/16.svg</file>
+        <file>files/17.svg</file>
+        <file>files/18.svg</file>
+        <file>files/19.svg</file>
+        <file>files/20.svg</file>
+        <file>files/21.svg</file>
+        <file>files/22.svg</file>
+        <file>files/23.svg</file>
+        <file>files/24.svg</file>
+        <file>files/25.svg</file>
+    </qresource>
+</RCC>
